@@ -64,7 +64,7 @@ body {
 	position: relative;
 	top: 0px;
     height: 0px;
-	border-top: 6px solid #bc1b2d;
+	border-top: 6px solid   #8eae5c;
  	font-weight: semibold;
  }
 
@@ -197,12 +197,12 @@ ul.topnav li a {
 }
 
 ul.topnav li:hover{
-	border-bottom: 3px solid #bc1b2d;
+	border-bottom: 3px solid   #8eae5c;
 	transition:all 0.1s ease;
 }
 
 ul.topnav li.active {
-	border-bottom: 3px solid #bc1b2d;
+	border-bottom: 3px solid   #8eae5c;
 }
 
 ul.topnav li.icon {display: none;}
@@ -283,7 +283,7 @@ hr {
 }
 
 .underlined {
-	border-bottom: 2px solid #bc1b2d;
+	border-bottom: 2px solid   #8eae5c;
 }
 
 .contact-header {
@@ -291,7 +291,7 @@ hr {
 	color: #222222;
 	font-weight: normal;
 	font-family: 'Open Sans', sans-serif;
-	border-bottom: 2px solid #bc1b2d;
+	border-bottom: 2px solid   #8eae5c;
 	line-height: 30px;
 }
 
